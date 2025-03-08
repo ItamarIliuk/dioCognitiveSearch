@@ -54,7 +54,7 @@ O tutorial disponibilizado no link acima cobre os seguintes tópicos:
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/ItamarIliuk/dioCognitiveSearch.git
    ```
 
 2. **Siga as instruções da documentação:**  
